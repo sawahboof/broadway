@@ -8,7 +8,7 @@ h1 {
   color: white;
 }
 .nav {
-  background-color: blue;
+  background-image: url("../../Resources/Images/the-flatiron-building.png");
 }
 a {
   color: white;
@@ -26,7 +26,7 @@ p {
 }
 .page_divider {
   color:white;
-  background-color: blue;
+  background-image: url("../../Resources/Images/the-flatiron-building.png");
 }
 .footer {
   font-size: 11px;
